@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abhishe Kumar</h1>
 <h3 align="center">A passionate data scientist in india.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-ad" alt="developer-ad" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Developer-AD](https://github.com/Developer-AD)
