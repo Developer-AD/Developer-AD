@@ -1,4 +1,4 @@
-<img align="right" alt="Data Scienctist" width="460" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Data Scienctist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A Passionate Data Scientist In India.</h3>
 
