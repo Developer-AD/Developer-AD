@@ -1,12 +1,12 @@
+<img align="right" alt="Data Scienctist" width="460" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A Passionate Data Scientist In India.</h3>
-<img align="right" alt="Data Scienctist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 👨‍💻 All of my projects are available at : **https://github.com/Developer-AD**
 - 🎓 Course completion from AlmaBetter **Full Stack Data Science** **https://certificates.almabetter.com/en/verify/97660691695549**
 - 💬 Ask me about **Data Science, Data Analysis, Python, Sql**
 - 📫 How to reach me **abhishek1py@gmail.com**
 - ⚡ Passionate about **Artificial Intelligence**
+- 👨‍💻 All of my projects are available at : **https://github.com/Developer-AD**
 - 📝 I regularly write articles on : **https://www.linkedin.com/feed/update/urn:li:activity:7071827130166222849/**
 
 <h3 align="left">Connect with me:</h3>
