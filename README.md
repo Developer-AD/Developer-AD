@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!-- -->
 **Developer-AD/Developer-AD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate data scientist in india.</h3>
-<img align="right" alt="Data Scienctist" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif -->
+
+
+<img align="right" alt="Data Scienctist" width="400" src="https://github.com/Developer-AD/Developer-AD/assets/76925446/61bc5622-36b2-4a0f-a721-0ce2f0ebc6e2">
 - 🌱 I’m currently learning **Full Stack Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Developer-AD](https://github.com/Developer-AD)
