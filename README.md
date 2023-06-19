@@ -1,36 +1,13 @@
-### Hi there 👋
-
-<!-- -->
-**Developer-AD/Developer-AD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate data scientist in india.</h3>
-<!-- https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif -->
+<h3 align="center">A Passionate Data Scientist In India.</h3>
+<img align="right" alt="Data Scienctist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-
-<img align="right" alt="Data Scienctist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🌱 I’m currently learning **Full Stack Data Science**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Developer-AD](https://github.com/Developer-AD)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/feed/update/urn:li:activity:7071827130166222849/](https://www.linkedin.com/feed/update/urn:li:activity:7071827130166222849/)
-
+- 👨‍💻 All of my projects are available at : **https://github.com/Developer-AD**
+- 🎓 Recently I have completed **Full Stack Data Science Course from AlmaBetter**
 - 💬 Ask me about **Data Science, Data Analysis, Python, Sql**
-
 - 📫 How to reach me **abhishek1py@gmail.com**
-
-- ⚡ Fun fact **I love programming.**
+- ⚡ Passionate about **Artificial Intelligence**
+- 📝 I regularly write articles on : **https://www.linkedin.com/feed/update/urn:li:activity:7071827130166222849/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
