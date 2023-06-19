@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif -->
 
 
-<img align="right" alt="Data Scienctist" width="400" src="https://github.com/Developer-AD/Developer-AD/assets/76925446/61bc5622-36b2-4a0f-a721-0ce2f0ebc6e2">
+<img align="right" alt="Data Scienctist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **Full Stack Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Developer-AD](https://github.com/Developer-AD)
