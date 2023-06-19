@@ -3,7 +3,7 @@
 <img align="right" alt="Data Scienctist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 👨‍💻 All of my projects are available at : **https://github.com/Developer-AD**
-- 🎓 Recently I have completed **Full Stack Data Science Course from AlmaBetter** Certificate : **https://certificates.almabetter.com/en/verify/97660691695549**
+- 🎓 Recently completed course **Full Stack Data Science from AlmaBetter** **https://certificates.almabetter.com/en/verify/97660691695549**
 - 💬 Ask me about **Data Science, Data Analysis, Python, Sql**
 - 📫 How to reach me **abhishek1py@gmail.com**
 - ⚡ Passionate about **Artificial Intelligence**
