@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate data scientist in india.</h3>
-<img align="right" alt="Data Scienctist" width="400" src="https://i.gifer.com/75ez.gif">
+<img align="right" alt="Data Scienctist" width="400" src="https://github.com/Developer-AD/Developer-AD/assets/76925446/89f54887-6743-428a-b5b1-74364c8c8f5c">
 - 🌱 I’m currently learning **Full Stack Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Developer-AD](https://github.com/Developer-AD)
