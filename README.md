@@ -1,6 +1,6 @@
 <img align="right" alt="Data Scienctist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Python Developer @Pixelstat eSolution Pvt. Ltd.</h3>
+<h3 align="center">Python Developer @Pixelstat eSolutions Development PVT LTD</h3>
 
 - 🎓 Course completion from AlmaBetter **Full Stack Data Science** **https://certificates.almabetter.com/en/verify/97660691695549**
 - 💬 Ask me about **Data Science, Data Analysis, Python, Sql**
